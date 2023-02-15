@@ -10,7 +10,7 @@ import "./Products.css";
 //             <div>
 //                 <img className="product-image"
 //                 src={productItem.image}
-//                  alt={productItem.name} />
+//                  alt={productItem.name}    />
 //             </div>
             
 //             <div>
