@@ -51,7 +51,7 @@ useEffect(() => {
       {
         (productItems) ?
 
-          productItems.map((productItem) => {
+          productItems.map((productItem)  => {
             return (
               <div className='card'>
             <div>
